@@ -1,0 +1,21 @@
+  // scss variables! 
+  $primary-color: #000000;
+  $secondary-color: #a8a8a8;
+  $fonts: Arial, Helvetica, Serif;
+
+  // basic page styling. Some of it needs compiling!
+
+  * {
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 5px;
+}
+
+body {
+  background-color: $primary-color;
+  font-family: $fonts;
+  color:#a8a8a8;
+  line-height: 1.5;
+}
+
+ 
